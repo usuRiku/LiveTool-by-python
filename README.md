@@ -10,6 +10,7 @@ LiveTool は最大8人までのメンバーで構成されるバンドが出演�
  
 *  Python 3.10.5
 *  openpyxl 3.1.2
+*  tqdm 4.66.1
  
 # Usage
  
