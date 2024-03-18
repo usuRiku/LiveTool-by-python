@@ -5,7 +5,8 @@ LiveTool は最大8人までのメンバーで構成されるバンドが出演�
  
 # DEMO
  
-![livetool_demo-_2_](https://github.com/usuRiku/LiveTool_by_python/assets/163644085/dff3c693-7f20-41bf-8549-e379eff808ae)
+"hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
+ 
  
 # Usage
  
